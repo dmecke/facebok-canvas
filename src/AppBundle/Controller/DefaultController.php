@@ -17,7 +17,7 @@ class DefaultController extends Controller
     {
         $facebook = new Facebook([
             'app_id' => '796251190510155',
-            'app_secret' => '',
+            'app_secret' => 'fe99b96f3fba85cfb0d11787da1e30f7',
             'default_graph_version' => 'v2.6',
         ]);
 
